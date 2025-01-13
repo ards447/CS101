@@ -26,5 +26,5 @@ s++ filename.cpp
 To clone this repository, use the following command:
 
 ```bash
-git clone https://github.com/passionately-curious/CS101.git
+git clone https://github.com/ards447/CS101.git
 
